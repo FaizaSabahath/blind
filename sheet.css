@@ -1,0 +1,131 @@
+#contact iframe {
+    width: 100%;
+}
+
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a{
+    text-decoration-style: none;
+}
+.hi{
+   float: left;
+}
+#carousel3{
+   font-size: medium;
+}
+#img1{
+   height: 300px;
+   width: 600px;
+}
+.contact_1 h3 {
+    display: inline;
+}
+#glasses{
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+}
+#prof{
+  height: 250px;
+  width: 280px;
+  border-radius: 150px;
+}
+.contact_1 a {
+    text-shadow: none;
+}
+.travel_mainDiv{
+    color: #f0dac5;
+}
+h2{
+    margin-bottom: -1px; 
+    font-size: 18px;
+}
+input {
+    background: grey
+}
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+#txt{
+    color: #e07fb6;
+}
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+.movie_head {
+
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text {
+    color: #ffffff;
+}
+
+.movie_body {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_body i {
+    float: right;
+}
+
+.highlight {
+    line-height: 2;
+}
+
+.books {
+    cursor: pointer;
+}
+
+.books hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+
+#white{
+    color:#f0dac5;
+}
+#pink{
+    text-align: center;
+}
+html {
+    scroll-behavior: smooth;
+}
